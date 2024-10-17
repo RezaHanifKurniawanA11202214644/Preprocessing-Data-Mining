@@ -1,6 +1,6 @@
 # Preprocessing Data Mining
 
-Proyek ini berfokus pada tahapan preprocessing dalam data mining, menggunakan berbagai pustaka untuk komputasi numerik, visualisasi data, dan manipulasi data.
+Proyek ini berfokus pada tahapan preprocessing dalam data mining, menggunakan berbagai pustaka sebagai berikut:
 
 ## Library yang Digunakan
 
@@ -11,21 +11,20 @@ Proyek ini berfokus pada tahapan preprocessing dalam data mining, menggunakan be
 
 ## Cara Menjalankan Code
 
-Ikuti langkah-langkah di bawah ini untuk menjalankan kode:
+Ikuti langkah-langkah di bawah ini untuk menjalankan kode ini:
 
-### 1. Buka Terminal dan Aktivasi Virtual Environment
+### 1. Buka Terminal dan clone repository ini ke komputer Anda.
+Gunakan perintah berikut:
 
-Aktifkan *virtual environment* dengan perintah berikut:
+```sh
+git clone https://github.com/RezaHanifKurniawanA11202214644/Preprocessing-Data-Mining.git
+```
+
+### 2. Aktifkan Virtual Environment
+Buka directory project Anda dan aktifkan virtual environment diterminal Vscode:
 
 ```sh
 .\.venv\Scripts\activate
-```
-
-### 2. Install Library yang Dibutuhkan
-Instal library yang dibutuhkan dengan perintah berikut:
-
-```sh
-pip install -r requirements.txt
 ```
 
 ### 3. Jalankan Code
